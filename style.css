@@ -1,0 +1,47 @@
+body{
+    background-color: blue;
+    color: white;
+    background: #bdd2de;
+    margin-bottom: 0px;
+}
+h1{
+    text-align: left;
+    font-size: 80px;
+    padding-top: 100px;
+}
+.tom{
+    text-align: left;
+    font-size: 20px;
+    padding-bottom: 270px;
+}
+ .picture{
+    float: right;
+    padding-right: 100px;
+    padding-top: -40px;
+    background-color: aqua;
+ }
+ button{
+    border-radius: 40px;
+    background-color: red;
+    color: white;
+    padding: 15px;
+    font-size: 30px;
+ }
+ .animals{
+    height: 250px;
+    width:250px;
+    padding: 20px;
+ }
+ .bottom_image{
+    background-color: white;
+    border: 1px;
+    margin-bottom:0px;
+    float:bottom;
+    
+    
+ }
+}<P>{
+   font-size: 40px;
+
+}
+ 
